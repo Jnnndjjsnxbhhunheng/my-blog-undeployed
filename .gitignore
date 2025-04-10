@@ -1,0 +1,18 @@
+# 忽略操作系统生成的文件
+.DS_Store
+Thumbs.db
+
+# 忽略 Node.js 相关文件和目录
+node_modules
+package-lock.json
+yarn.lock
+
+# 忽略 VuePress 生成的文件和目录
+docs/.vuepress/dist
+
+# 忽略日志文件
+*.log
+
+# 忽略环境配置文件
+.env
+.env.*
