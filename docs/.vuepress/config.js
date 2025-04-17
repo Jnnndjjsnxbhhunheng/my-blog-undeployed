@@ -39,7 +39,7 @@ module.exports = {
           title: "基础学习",
           path: "/study-notes/index",
           collapsable: true,
-          children: [{ title: "前言", path: "/study-notes/index" }],
+          children: [{ title: "es6", path: "/study-notes/Es6" }],
         },
       ],
       "/": [],
